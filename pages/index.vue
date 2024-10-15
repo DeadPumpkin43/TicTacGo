@@ -5,12 +5,12 @@
         >
         <div class="flex">
             <button
-                class="bg-sky-400 px-[1.0185rem] py-2 rounded-md mx-2 hover:bg-sky-600 duration-300"
+                class="bg-sky-400 px-[1.0185rem] py-2 rounded-md mx-2 hover:bg-sky-600 duration-300  active:ring-cyan-500 active:ring"
             >
                 Sign Up
             </button>
             <button
-                class="bg-sky-400 px-[1.575rem] py-2 rounded-md mx-2 hover:bg-sky-600 transition-colors duration-300"
+                class="bg-sky-400 px-[1.575rem] py-2 rounded-md mx-2 hover:bg-sky-600 transition-all duration-300 active:ring-cyan-500 active:ring"
             >
                 Login
             </button>
